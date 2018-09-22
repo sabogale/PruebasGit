@@ -10,7 +10,9 @@ public class Persona {
 	}
 
 	public String getNombre() {
+		//cambio prueba
 		return nombre;
+		
 	} 
 
 	public void setNombre(String nombre) {
